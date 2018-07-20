@@ -16,4 +16,4 @@ Amazon MWS:
 https://pypi.org/project/mws/
 
 
-Made by Jake Gluck for 2018 Summer Product ANalytics Internship
+Made by Jake Gluck for 2018 Summer Product Analytics Internship
